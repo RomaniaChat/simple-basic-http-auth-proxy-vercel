@@ -1,5 +1,5 @@
 {
-  "name": "simple-basic-http-auth-proxy-vercel",
+  "name": "auth-proxy-vercel",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -8,15 +8,15 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/bbiHQ/simple-basic-http-auth-proxy-vercel.git"
+    "url": "git+https://github.com/RomaniaChat/auth-proxy-vercel.git"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/bbiHQ/simple-basic-http-auth-proxy-vercel/issues"
+    "url": "https://github.com/RomaniaChat/auth-proxy-vercel/issues"
   },
-  "homepage": "https://github.com/bbiHQ/simple-basic-http-auth-proxy-vercel#readme",
+  "homepage": "https://github.com/RomaniaChat/auth-proxy-vercel#readme",
   "dependencies": {
     "basic-auth": "^2.0.1",
     "http-proxy": "^1.18.0"
